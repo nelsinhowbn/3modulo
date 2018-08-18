@@ -1,0 +1,12 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\bin\Debug\eleicoes.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\bin\Debug\eleicoes.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.CadastrarAluno.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.CadastrarCandidato.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.CadastrarEleitor.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.login.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.votacao.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eleicoes\obj\x86\Debug\eleicoes.pdb

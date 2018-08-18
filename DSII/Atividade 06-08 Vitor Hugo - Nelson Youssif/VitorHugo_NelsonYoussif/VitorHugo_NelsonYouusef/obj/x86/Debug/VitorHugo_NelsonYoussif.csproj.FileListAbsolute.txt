@@ -1,0 +1,12 @@
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\bin\Debug\VitorHugo_NelsonYouusef.exe
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\bin\Debug\VitorHugo_NelsonYouusef.pdb
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.CadastrarAluno.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.CadastrarCandidato.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.CadastrarEleitor.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.Form1.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.login.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.Properties.Resources.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\eleicoes.votacao.resources
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\VitorHugo_NelsonYoussif.csproj.GenerateResource.Cache
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\VitorHugo_NelsonYouusef.exe
+G:\3 modulo\DSII\Atividade 06-08 Vitor Hugo - Nelson Youssif\VitorHugo_NelsonYoussif\VitorHugo_NelsonYouusef\obj\x86\Debug\VitorHugo_NelsonYouusef.pdb
