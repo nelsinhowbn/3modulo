@@ -1,0 +1,4 @@
+C:\Users\Aluno\Desktop\Array\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\Array\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\Array\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\Desktop\Array\Classes\obj\Release\Classes.pdb

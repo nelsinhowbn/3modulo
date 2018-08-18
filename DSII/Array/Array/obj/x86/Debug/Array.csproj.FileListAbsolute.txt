@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Array\Array\bin\Debug\Array.exe
+C:\Users\Aluno\Desktop\Array\Array\bin\Debug\Array.pdb
+C:\Users\Aluno\Desktop\Array\Array\bin\Debug\Classes.dll
+C:\Users\Aluno\Desktop\Array\Array\bin\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.Form1.resources
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.exe
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.pdb
+C:\Users\Aluno\Desktop\Array\Array\obj\x86\Debug\Array.CadastrarCliente.resources
