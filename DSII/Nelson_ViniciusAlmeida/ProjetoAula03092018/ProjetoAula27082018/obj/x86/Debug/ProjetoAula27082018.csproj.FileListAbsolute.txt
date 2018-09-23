@@ -1,0 +1,50 @@
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Agendamento.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Cliente.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Funcionario.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Medico.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Cliente.resources
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Funcionario.resources
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Pessoa.resources
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nelson_ViniciusAlmeida_Trabalho\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.PessoaDocumento.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.PessoaDocumento.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Cliente.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Funcionario.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Pessoa.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Lição0309\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.PessoaDocumento.resources
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Cliente.resources
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Funcionario.resources
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Pessoa.resources
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csprojResolveAssemblyReference.cache
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.PessoaDocumento.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Cliente.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Funcionario.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Pessoa.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
