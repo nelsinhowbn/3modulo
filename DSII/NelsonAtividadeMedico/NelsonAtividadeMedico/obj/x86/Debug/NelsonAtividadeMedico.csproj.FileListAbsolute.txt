@@ -1,0 +1,9 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.Consulta_Cadastro.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\bin\Debug\NelsonAtividadeMedico.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\bin\Debug\NelsonAtividadeMedico.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.pdb

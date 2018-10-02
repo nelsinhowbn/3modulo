@@ -1,0 +1,17 @@
+use master 
+create database AtividadePaciente;
+drop database AtividadePaciente;
+use AtividadePaciente
+go
+
+create table paciente (
+id_paciente int  ,
+nm_paciente nvarchar(500),
+cpf_paciente nvarchar(500),
+rg_paciente nvarchar(500),
+endereco_paciente varchar(500),
+cep_paciente varchar(500),
+bairro_paciente varchar(500),
+)
+select * from paciente
+
