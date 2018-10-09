@@ -1,0 +1,14 @@
+use master
+drop database Tcc
+create database Tcc
+use Tcc
+
+create table tb_Prestador(
+nome varchar(200) NOT NULL,
+cpf varchar(200) NOT NULL,
+endereco varchar(250) NOT NULL,
+cep varchar(200) NOT NULL,
+celular varchar(101) NOT NULL,
+tipo_servico varchar(50) NOT NULL
+	);
+	select * from tb_Prestador

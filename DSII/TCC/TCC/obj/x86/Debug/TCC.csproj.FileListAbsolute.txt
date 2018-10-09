@@ -1,0 +1,10 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\bin\Debug\TCC.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\bin\Debug\TCC.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Prestador.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.pdb
