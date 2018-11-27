@@ -1,0 +1,15 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\bin\Debug\Nelson_Escola.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\bin\Debug\Nelson_Escola.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\obj\x86\Debug\Nelson_Escola.CadAluno.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\obj\x86\Debug\Nelson_Escola.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\obj\x86\Debug\Nelson_Escola.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\obj\x86\Debug\Nelson_Escola.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Nelson_Escola\obj\x86\Debug\Nelson_Escola.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.CadAluno.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.CadProfessor.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\obj\x86\Debug\Nelson_Escola.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\bin\Debug\Nelson_Escola.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Nelson_Escola\Nelson_Escola\bin\Debug\Nelson_Escola.pdb

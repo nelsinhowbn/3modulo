@@ -1,0 +1,3 @@
+C:\Users\Aluno\Desktop\3modulo\DSII\CSharp\DS.Project.View\DS.Project.View\obj\x86\Debug\DS.Project.View.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\3modulo\DSII\CSharp\DS.Project.View\DS.Project.View\obj\x86\Debug\DS.Project.View.Properties.Resources.resources
+C:\Users\Aluno\Desktop\3modulo\DSII\CSharp\DS.Project.View\DS.Project.View\obj\x86\Debug\DS.Project.View.csproj.GenerateResource.Cache

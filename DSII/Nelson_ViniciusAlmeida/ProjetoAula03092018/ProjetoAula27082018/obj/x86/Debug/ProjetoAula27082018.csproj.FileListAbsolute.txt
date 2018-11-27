@@ -48,3 +48,4 @@ C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlm
 C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Pessoa.resources
 C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
 C:\Users\Brubs-Gamer\Desktop\PortableGit\Desenvolvimento-de-Sistemas\viniciusAlmeida_Nelson\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\3modulo\DSII\Nelson_ViniciusAlmeida\ProjetoAula03092018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe

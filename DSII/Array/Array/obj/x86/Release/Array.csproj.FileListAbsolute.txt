@@ -9,3 +9,5 @@ C:\Users\Aluno\Desktop\Array\Array\bin\Release\Classes.dll
 C:\Users\Aluno\Desktop\Array\Array\bin\Release\Classes.pdb
 C:\Users\Aluno\Desktop\Array\Array\obj\x86\Release\Array.csprojResolveAssemblyReference.cache
 C:\Users\Aluno\Desktop\Array\Array\obj\x86\Release\Array.CadastrarCliente.resources
+C:\Users\Aluno\Desktop\3modulo\DSII\Array\Array\obj\x86\Release\Array.exe
+C:\Users\Aluno\Desktop\3modulo\DSII\Array\Array\obj\x86\Release\Array.pdb

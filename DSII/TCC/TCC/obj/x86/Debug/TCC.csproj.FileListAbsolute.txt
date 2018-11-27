@@ -8,3 +8,5 @@ C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.exe
 C:\Users\Aluno\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.pdb
 C:\Users\Aluno\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.exe
 C:\Users\Aluno\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Aluno\Desktop\3modulo\DSII\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Aluno\Desktop\3modulo\DSII\TCC\TCC\obj\x86\Debug\TCC.pdb

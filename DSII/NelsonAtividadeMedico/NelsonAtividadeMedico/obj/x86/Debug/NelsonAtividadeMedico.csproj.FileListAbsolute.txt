@@ -7,3 +7,5 @@ C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\De
 C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.pdb
 C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.exe
 C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.pdb
+C:\Users\Aluno\Desktop\3modulo\DSII\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.exe
+C:\Users\Aluno\Desktop\3modulo\DSII\NelsonAtividadeMedico\NelsonAtividadeMedico\obj\x86\Debug\NelsonAtividadeMedico.pdb
