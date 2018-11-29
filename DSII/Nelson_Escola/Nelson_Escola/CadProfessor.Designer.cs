@@ -40,6 +40,7 @@
             this.txtNome = new System.Windows.Forms.TextBox();
             this.dgvProfessor = new System.Windows.Forms.DataGridView();
             this.label5 = new System.Windows.Forms.Label();
+            this.comboEstado = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProfessor)).BeginInit();
             this.SuspendLayout();
             // 
@@ -145,11 +146,25 @@
             this.label5.TabIndex = 12;
             this.label5.Text = "Estado:";
             // 
+            // comboEstado
+            // 
+            this.comboEstado.FormattingEnabled = true;
+            this.comboEstado.Items.AddRange(new object[] {
+            "São Paulo\t",
+            "Minas Gerais",
+            "Espirito Santo",
+            "Pernambuco"});
+            this.comboEstado.Location = new System.Drawing.Point(67, 189);
+            this.comboEstado.Name = "comboEstado";
+            this.comboEstado.Size = new System.Drawing.Size(194, 21);
+            this.comboEstado.TabIndex = 13;
+            // 
             // CadProfessor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(361, 555);
+            this.Controls.Add(this.comboEstado);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.dgvProfessor);
             this.Controls.Add(this.txtNome);
@@ -185,5 +200,6 @@
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.DataGridView dgvProfessor;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.ComboBox comboEstado;
     }
 }

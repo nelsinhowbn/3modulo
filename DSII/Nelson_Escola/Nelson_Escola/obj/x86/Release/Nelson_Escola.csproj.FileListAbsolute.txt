@@ -1,0 +1,8 @@
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.CadAluno.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.CadProfessor.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.Properties.Resources.resources
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.csproj.GenerateResource.Cache
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\bin\Release\Nelson_Escola.exe
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\bin\Release\Nelson_Escola.pdb
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.exe
+C:\Users\Brubs-Gamer\Desktop\PortableGit\3modulo\DSII\Nelson_Escola\Nelson_Escola\obj\x86\Release\Nelson_Escola.pdb

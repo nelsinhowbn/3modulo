@@ -65,6 +65,9 @@ namespace Nelson_Escola
             txtRg.Text = "";
 
             txtCpf.Text = "";
+            comboEstado.Text = "";
+
+
         }
 
 

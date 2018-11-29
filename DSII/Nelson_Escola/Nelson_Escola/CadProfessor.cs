@@ -41,7 +41,7 @@ namespace Nelson_Escola
         }
 
 
-          private void CadastrarProfessor(string nome, string email, string rg, string cpf)
+          private void CadastrarProfessor(string nome, string email, string rg, string cpf, string estado)
         {
             //conexão com banco
             SqlConnection conexao = new SqlConnection();
@@ -51,7 +51,7 @@ namespace Nelson_Escola
             conexao.Open();
 
             //inseri texto de insert
-            string InsertProfessor = string.Concat("insert into professor values ( '", nome, "','", email, "','", rg, "','", cpf, "')");
+            string InsertProfessor = string.Concat("insert into professor values  ( '", nome, "','", email, "','", rg, "','", cpf, "','", estado, "')");
 
             //insere texto de insert em nova consulta
             SqlCommand comandaSQL = new SqlCommand(InsertProfessor, conexao);
@@ -68,6 +68,7 @@ namespace Nelson_Escola
               txtEmail.Text = "";
               txtRg.Text = "";
               txtCpf.Text = "";
+              comboEstado.Text = "";
 
           }
         private void CadProfessor_Load(object sender, EventArgs e)
@@ -77,7 +78,7 @@ namespace Nelson_Escola
 
         private void btnCadrastrar_Click(object sender, EventArgs e)
         {
-                         CadastrarProfessor(txtNome.Text ,txtEmail.Text, txtRg.Text, txtCpf.Text);
+                         CadastrarProfessor(txtNome.Text ,txtEmail.Text, txtRg.Text, txtCpf.Text, comboEstado.Text);
             LimparCampos();
                          retornarProfessor();
             MessageBox.Show("Registro de Professor", "Etec ZL");
